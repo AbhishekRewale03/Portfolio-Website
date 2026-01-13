@@ -27,7 +27,7 @@ A modern and responsive personal portfolio website built with **React.js** and *
 1. Clone the repository
 
 - git clone https://github.com/YourUsername/portfolio-website.git
-- <br/>
+ <br/>
 
 2. Navigate to the project folder
 
@@ -39,7 +39,8 @@ A modern and responsive personal portfolio website built with **React.js** and *
 
 - npm install
 <br/>
-4.  Start the development server
+
+4. Start the development server
 
 
 - npm start
