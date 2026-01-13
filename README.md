@@ -26,7 +26,7 @@ A modern and responsive personal portfolio website built with **React.js** and *
 
 1. Clone the repository
 
-- git clone https://github.com/YourUsername/portfolio-website.git
+- git clone https://github.com/AbhishekRewale03/Portfolio-Website.git
  <br/>
 
 2. Navigate to the project folder
