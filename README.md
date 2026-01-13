@@ -11,7 +11,7 @@ A modern and responsive personal portfolio website built with **React.js** and *
 - Interactive UI/UX with hover effects and animations
 - Contact section with links to email, LinkedIn, and GitHub
 - Dark mode support
-- <br/>
+  <br/>
 
 ## 🛠 Tech Stack
 - **Frontend:** React.js, Tailwind CSS
