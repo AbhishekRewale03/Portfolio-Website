@@ -5,6 +5,7 @@ import logo_blue from './logo-blue-removebg-preview.png'
 // import logo_orange from './logo-orange.png'
 import logo_golden from './logo_golden-removebg-preview.png'
 import tomato from './tomato.png'
+import finance from './finance.png'
 import zentry from './zentry_img.jpg'
 import arrow_icon from './arrow_icon.svg'
 import bgImage1 from './bgImage1.png'
@@ -57,18 +58,32 @@ export const company_logos = [
 ]
 
 import { FaHtml5, FaCss3Alt, FaJsSquare, FaReact, FaGitAlt, FaGithub } from "react-icons/fa";
-import { SiTailwindcss } from 'react-icons/si'
-import { i } from 'motion/react-client'
+import { SiFirebase, SiNextdotjs, SiTailwindcss, SiTypescript } from 'react-icons/si'
+
+
+// export const techs = [
+//   { Icon: FaHtml5, color: "text-orange-600" },
+//   { Icon: FaCss3Alt, color: "text-blue-600" },
+//   { Icon: FaJsSquare, color: "text-yellow-400" },
+//   { Icon: FaReact, color: "text-cyan-500" },
+//   { Icon: SiTailwindcss, color: "text-sky-500" },
+//   { Icon: FaGitAlt, color: "text-orange-500" },
+//   { Icon: FaGithub, color: "text-gray-900 dark:text-white" },
+  
+// ];
+
 
 export const techs = [
   { Icon: FaHtml5, color: "text-orange-600" },
   { Icon: FaCss3Alt, color: "text-blue-600" },
   { Icon: FaJsSquare, color: "text-yellow-400" },
+  { Icon: SiTypescript, color: "text-blue-500" },   
   { Icon: FaReact, color: "text-cyan-500" },
+  { Icon: SiNextdotjs, color: "text-black dark:text-white" }, 
   { Icon: SiTailwindcss, color: "text-sky-500" },
+  { Icon: SiFirebase, color: "text-yellow-500" },   
   { Icon: FaGitAlt, color: "text-orange-500" },
   { Icon: FaGithub, color: "text-gray-900 dark:text-white" },
-  
 ];
 
 
@@ -98,6 +113,7 @@ const assets = {
   marketing_icon,
   social_icon,
   menu_icon,
+  finance,
   close_icon,
   work_mobile_app,
   work_fitness_app,
