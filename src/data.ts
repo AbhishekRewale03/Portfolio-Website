@@ -6,7 +6,7 @@ export const experiences = [
     company: 'Self-Initiated SaaS Products',
     period: 'Jun 2026 — Present',
     points: [
-      'Launched GymPro for two paying gym businesses and continue to ship enhancements, support, and fixes.',
+      'Launched GymPro as a commercial SaaS product, secured its first two paying gym customers, and continue delivering enhancements, support, and reliability improvements.',
       'Building Turfmate for market launch with transaction-backed booking integrity.',
       'Own product architecture, authorization, automated testing, and deployment end to end.',
     ],
